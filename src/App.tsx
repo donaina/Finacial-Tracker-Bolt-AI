@@ -52,7 +52,7 @@ function App() {
           <div className="lg:col-span-1 space-y-6">
             <div className="bg-gradient-to-br from-blue-600 to-purple-600 p-1 rounded-xl">
               <div className="bg-white p-6 rounded-lg">
-                <h2 className="text-xl font-semibold mb-6 text-gray-800">Add Transaction</h2>
+                <h2 className="text-xl font-semibold mb-6 text-gray-800">Add Expense & Income</h2>
                 <TransactionForm onAddTransaction={handleAddTransaction} />
               </div>
             </div>
