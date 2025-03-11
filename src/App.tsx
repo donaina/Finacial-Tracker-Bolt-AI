@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Wallet } from 'lucide-react';
 import { TransactionForm } from './components/TransactionForm';
 import { TransactionList } from './components/TransactionList';
